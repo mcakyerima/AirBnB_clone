@@ -1,7 +1,7 @@
-header {
+header{
     background-color: white;
     height: 70px;
-    /* width: 100%; */
+    width: 100%;
     border-bottom: solid 1px #CCCCCC;
     position: sticky;
     top: 0;
@@ -10,7 +10,7 @@ header {
     z-index: 10;
 }
 
-header .logo {
+header .logo{
     height: inherit;
     width: inherit;
     background: url("https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/logo.png");
